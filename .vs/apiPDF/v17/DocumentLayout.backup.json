@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|c:\\users\\yrodriguezc\\source\\repos\\apipdf\\apipdf\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|solutionrelative:apipdf\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|c:\\users\\yrodriguezc\\source\\repos\\apipdf\\apipdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|solutionrelative:apipdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|c:\\users\\yrodriguezc\\source\\repos\\apipdf\\apipdf\\models\\tb_detalle_demoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|solutionrelative:apipdf\\models\\tb_detalle_demoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|c:\\users\\yrodriguezc\\source\\repos\\apipdf\\apipdf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D5BA23-F84E-4F2B-868E-FA2BE6BB09BC}|apiPDF\\apiPDF.csproj|solutionrelative:apipdf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "apiPDF\\Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "apiPDF\\Controllers\\PdfController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:15:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tb_detalle_demoras.cs",
+              "DocumentMoniker": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Models\\Tb_detalle_demoras.cs",
+              "RelativeDocumentMoniker": "apiPDF\\Models\\Tb_detalle_demoras.cs",
+              "ToolTip": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Models\\Tb_detalle_demoras.cs",
+              "RelativeToolTip": "apiPDF\\Models\\Tb_detalle_demoras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:05:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Program.cs",
+              "RelativeDocumentMoniker": "apiPDF\\Program.cs",
+              "ToolTip": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Program.cs",
+              "RelativeToolTip": "apiPDF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:12:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "apiPDF\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "apiPDF\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:30:39.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
