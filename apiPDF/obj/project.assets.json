@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\apiPDF.csproj",
+      "projectUniqueName": "C:\\Users\\yrodriguezc\\Documents\\proyectos\\apiPdf\\apiPDF\\apiPDF.csproj",
       "projectName": "apiPDF",
-      "projectPath": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\apiPDF.csproj",
+      "projectPath": "C:\\Users\\yrodriguezc\\Documents\\proyectos\\apiPdf\\apiPDF\\apiPDF.csproj",
       "packagesPath": "C:\\Users\\yrodriguezc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\obj\\",
+      "outputPath": "C:\\Users\\yrodriguezc\\Documents\\proyectos\\apiPdf\\apiPDF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yrodriguezc\\AppData\\Roaming\\NuGet\\NuGet.Config",

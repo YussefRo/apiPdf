@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ndAldURLbpI=",
+  "dgSpecHash": "9xtpvAuZYkY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yrodriguezc\\source\\repos\\apiPDF\\apiPDF\\apiPDF.csproj",
+  "projectFilePath": "C:\\Users\\yrodriguezc\\Documents\\proyectos\\apiPdf\\apiPDF\\apiPDF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yrodriguezc\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\yrodriguezc\\.nuget\\packages\\itext\\8.0.5\\itext.8.0.5.nupkg.sha512",

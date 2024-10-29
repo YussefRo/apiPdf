@@ -18,5 +18,15 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiPDF.Controllers.PdfController",
+    "Method": "GetTb_detalle_demorasPdf2",
+    "RelativePath": "api/Pdf/pdf2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
